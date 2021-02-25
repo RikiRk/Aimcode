@@ -1,0 +1,5 @@
+new_reply= input("ki korchis ?  ")
+new_reply= input("areh bolna   ")
+new_reply= input("ki kaaj ?  ")
+new_reply= input("ohh       ")
+new_reply= print("haa ! amio shikbo ")

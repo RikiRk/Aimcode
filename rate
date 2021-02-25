@@ -1,0 +1,4 @@
+print("Input Rate and Distance ")
+rate=input("rate: ")
+distance=input("distance: ")
+print("time: ",distance/rate)
